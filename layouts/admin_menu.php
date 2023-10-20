@@ -32,7 +32,7 @@
              <ul class="subsubmenu">
                  <li><a href="ingenieria_civil.php">Ingeniería Civil</a></li>
                  <li><a href="otra_subcategoria.php">Ingenieria de Minas</a></li>
-                 <li><a href="otra_subcategoria.php">Ingenieria  y Sistemas</a></li>
+                 <li><a href="otra_subcategoria.php">Ingenieria Informatica y Sistemas</a></li>
              </ul>
          </li>
          <li><a href="educacion_ciencias_sociales.php">Educación y Ciencias Sociales</a></li>
